@@ -1,0 +1,704 @@
+[
+  {
+    "season": 1,
+    "episode": 4,
+    "title": "Cholesterol",
+    "topicId": "149102",
+    "file": "S01E04-cholesterol.txt",
+    "charLength": 19143,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149102"
+  },
+  {
+    "season": 1,
+    "episode": 5,
+    "title": "Everybody's Got a Tushy",
+    "topicId": "149103",
+    "file": "S01E05-everybodys-got-a-tushy.txt",
+    "charLength": 18647,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149103"
+  },
+  {
+    "season": 1,
+    "episode": 6,
+    "title": "Family Car",
+    "topicId": "149104",
+    "file": "S01E06-family-car.txt",
+    "charLength": 18454,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149104"
+  },
+  {
+    "season": 2,
+    "episode": 7,
+    "title": "Bystander Ben",
+    "topicId": "149105",
+    "file": "S02E07-bystander-ben.txt",
+    "charLength": 18606,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149105"
+  },
+  {
+    "season": 2,
+    "episode": 8,
+    "title": "Real Estate",
+    "topicId": "149106",
+    "file": "S02E08-real-estate.txt",
+    "charLength": 18915,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149106"
+  },
+  {
+    "season": 2,
+    "episode": 9,
+    "title": "Glasses",
+    "topicId": "149107",
+    "file": "S02E09-glasses.txt",
+    "charLength": 16196,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149107"
+  },
+  {
+    "season": 2,
+    "episode": 10,
+    "title": "Office Management",
+    "topicId": "149108",
+    "file": "S02E10-office-management.txt",
+    "charLength": 19497,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149108"
+  },
+  {
+    "season": 2,
+    "episode": 11,
+    "title": "Bees and SIDS",
+    "topicId": "149109",
+    "file": "S02E11-bees-and-sids.txt",
+    "charLength": 16966,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149109"
+  },
+  {
+    "season": 2,
+    "episode": 12,
+    "title": "Drinky the Drunk Guy",
+    "topicId": "149110",
+    "file": "S02E12-drinky-the-drunk-guy.txt",
+    "charLength": 18078,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149110"
+  },
+  {
+    "season": 2,
+    "episode": 13,
+    "title": "Sticky Notes",
+    "topicId": "149111",
+    "file": "S02E13-sticky-notes.txt",
+    "charLength": 17231,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149111"
+  },
+  {
+    "season": 2,
+    "episode": 14,
+    "title": "It Takes Some Getting Used To",
+    "topicId": "149112",
+    "file": "S02E14-it-takes-some-getting-used-to.txt",
+    "charLength": 19256,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149112"
+  },
+  {
+    "season": 2,
+    "episode": 15,
+    "title": "The Particle Board",
+    "topicId": "149113",
+    "file": "S02E15-the-particle-board.txt",
+    "charLength": 21909,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149113"
+  },
+  {
+    "season": 2,
+    "episode": 16,
+    "title": "A Journey for the Betterment of People",
+    "topicId": "149114",
+    "file": "S02E16-a-journey-for-the-betterment-of-people.txt",
+    "charLength": 19530,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149114"
+  },
+  {
+    "season": 2,
+    "episode": 17,
+    "title": "Henna",
+    "topicId": "149116",
+    "file": "S02E17-henna.txt",
+    "charLength": 19731,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149116"
+  },
+  {
+    "season": 2,
+    "episode": 17,
+    "title": "Theory of Intelligence",
+    "topicId": "149115",
+    "file": "S02E17-theory-of-intelligence.txt",
+    "charLength": 18757,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149115"
+  },
+  {
+    "season": 2,
+    "episode": 19,
+    "title": "ESP",
+    "topicId": "149117",
+    "file": "S02E19-esp.txt",
+    "charLength": 19403,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149117"
+  },
+  {
+    "season": 3,
+    "episode": 20,
+    "title": "Monte Carlo",
+    "topicId": "149118",
+    "file": "S03E20-monte-carlo.txt",
+    "charLength": 21140,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149118"
+  },
+  {
+    "season": 3,
+    "episode": 21,
+    "title": "Blind Date",
+    "topicId": "149119",
+    "file": "S03E21-blind-date.txt",
+    "charLength": 18891,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149119"
+  },
+  {
+    "season": 3,
+    "episode": 22,
+    "title": "Fructose",
+    "topicId": "149120",
+    "file": "S03E22-fructose.txt",
+    "charLength": 18188,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149120"
+  },
+  {
+    "season": 3,
+    "episode": 23,
+    "title": "Earring",
+    "topicId": "149121",
+    "file": "S03E23-earring.txt",
+    "charLength": 21818,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149121"
+  },
+  {
+    "season": 3,
+    "episode": 24,
+    "title": "Koppleman and Katz",
+    "topicId": "149122",
+    "file": "S03E24-koppleman-and-katz.txt",
+    "charLength": 19725,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149122"
+  },
+  {
+    "season": 3,
+    "episode": 25,
+    "title": "Guess Who",
+    "topicId": "149123",
+    "file": "S03E25-guess-who.txt",
+    "charLength": 20750,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149123"
+  },
+  {
+    "season": 3,
+    "episode": 26,
+    "title": "Day Planner",
+    "topicId": "149124",
+    "file": "S03E26-day-planner.txt",
+    "charLength": 20587,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149124"
+  },
+  {
+    "season": 3,
+    "episode": 27,
+    "title": "Mourning Person",
+    "topicId": "149125",
+    "file": "S03E27-mourning-person.txt",
+    "charLength": 17844,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149125"
+  },
+  {
+    "season": 3,
+    "episode": 28,
+    "title": "Studio Guy",
+    "topicId": "149126",
+    "file": "S03E28-studio-guy.txt",
+    "charLength": 17393,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149126"
+  },
+  {
+    "season": 3,
+    "episode": 29,
+    "title": "L'il Helper",
+    "topicId": "149127",
+    "file": "S03E29-lil-helper.txt",
+    "charLength": 20238,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149127"
+  },
+  {
+    "season": 3,
+    "episode": 30,
+    "title": "Big Fat Slug",
+    "topicId": "149128",
+    "file": "S03E30-big-fat-slug.txt",
+    "charLength": 19338,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149128"
+  },
+  {
+    "season": 3,
+    "episode": 31,
+    "title": "New Phone System",
+    "topicId": "149129",
+    "file": "S03E31-new-phone-system.txt",
+    "charLength": 20463,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149129"
+  },
+  {
+    "season": 3,
+    "episode": 32,
+    "title": "Reunion",
+    "topicId": "149130",
+    "file": "S03E32-reunion.txt",
+    "charLength": 20371,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149130"
+  },
+  {
+    "season": 4,
+    "episode": 33,
+    "title": "Ben Treats",
+    "topicId": "149131",
+    "file": "S04E33-ben-treats.txt",
+    "charLength": 17789,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149131"
+  },
+  {
+    "season": 4,
+    "episode": 34,
+    "title": "Memoirs",
+    "topicId": "149132",
+    "file": "S04E34-memoirs.txt",
+    "charLength": 18746,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149132"
+  },
+  {
+    "season": 4,
+    "episode": 35,
+    "title": "Electric Bike",
+    "topicId": "149133",
+    "file": "S04E35-electric-bike.txt",
+    "charLength": 17983,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149133"
+  },
+  {
+    "season": 4,
+    "episode": 36,
+    "title": "Broadcaster Ben",
+    "topicId": "149134",
+    "file": "S04E36-broadcaster-ben.txt",
+    "charLength": 21232,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149134"
+  },
+  {
+    "season": 4,
+    "episode": 37,
+    "title": "Trash Day",
+    "topicId": "149135",
+    "file": "S04E37-trash-day.txt",
+    "charLength": 20171,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149135"
+  },
+  {
+    "season": 4,
+    "episode": 38,
+    "title": "Sharon Meyers",
+    "topicId": "149136",
+    "file": "S04E38-sharon-meyers.txt",
+    "charLength": 18459,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149136"
+  },
+  {
+    "season": 4,
+    "episode": 39,
+    "title": "Mask",
+    "topicId": "149137",
+    "file": "S04E39-mask.txt",
+    "charLength": 19038,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149137"
+  },
+  {
+    "season": 4,
+    "episode": 40,
+    "title": "Closets",
+    "topicId": "149138",
+    "file": "S04E40-closets.txt",
+    "charLength": 18552,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149138"
+  },
+  {
+    "season": 4,
+    "episode": 41,
+    "title": "Wild Weekend",
+    "topicId": "149139",
+    "file": "S04E41-wild-weekend.txt",
+    "charLength": 19733,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149139"
+  },
+  {
+    "season": 4,
+    "episode": 42,
+    "title": "Chopper",
+    "topicId": "149140",
+    "file": "S04E42-chopper.txt",
+    "charLength": 18847,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149140"
+  },
+  {
+    "season": 4,
+    "episode": 43,
+    "title": "Alibi",
+    "topicId": "149141",
+    "file": "S04E43-alibi.txt",
+    "charLength": 21847,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149141"
+  },
+  {
+    "season": 4,
+    "episode": 44,
+    "title": "Ben-Centennial",
+    "topicId": "149142",
+    "file": "S04E44-ben-centennial.txt",
+    "charLength": 21186,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149142"
+  },
+  {
+    "season": 4,
+    "episode": 45,
+    "title": "Undercover",
+    "topicId": "149143",
+    "file": "S04E45-undercover.txt",
+    "charLength": 19374,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149143"
+  },
+  {
+    "season": 5,
+    "episode": 46,
+    "title": "Old Man",
+    "topicId": "149144",
+    "file": "S05E46-old-man.txt",
+    "charLength": 17040,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149144"
+  },
+  {
+    "season": 5,
+    "episode": 47,
+    "title": "Fanny Pack",
+    "topicId": "149145",
+    "file": "S05E47-fanny-pack.txt",
+    "charLength": 18302,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149145"
+  },
+  {
+    "season": 5,
+    "episode": 48,
+    "title": "Metaphors",
+    "topicId": "149146",
+    "file": "S05E48-metaphors.txt",
+    "charLength": 17630,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149146"
+  },
+  {
+    "season": 5,
+    "episode": 49,
+    "title": "Movies",
+    "topicId": "149147",
+    "file": "S05E49-movies.txt",
+    "charLength": 18317,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149147"
+  },
+  {
+    "season": 5,
+    "episode": 50,
+    "title": "Ticket",
+    "topicId": "149148",
+    "file": "S05E50-ticket.txt",
+    "charLength": 20657,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149148"
+  },
+  {
+    "season": 5,
+    "episode": 51,
+    "title": "Phone Luv",
+    "topicId": "149149",
+    "file": "S05E51-phone-luv.txt",
+    "charLength": 19432,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149149"
+  },
+  {
+    "season": 5,
+    "episode": 52,
+    "title": "Chain Letter",
+    "topicId": "149150",
+    "file": "S05E52-chain-letter.txt",
+    "charLength": 17602,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149150"
+  },
+  {
+    "season": 5,
+    "episode": 53,
+    "title": "Babysitting Ben",
+    "topicId": "149151",
+    "file": "S05E53-babysitting-ben.txt",
+    "charLength": 20182,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149151"
+  },
+  {
+    "season": 5,
+    "episode": 54,
+    "title": "Miles Away",
+    "topicId": "149152",
+    "file": "S05E54-miles-away.txt",
+    "charLength": 19245,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149152"
+  },
+  {
+    "season": 5,
+    "episode": 55,
+    "title": "London Broil",
+    "topicId": "149153",
+    "file": "S05E55-london-broil.txt",
+    "charLength": 19245,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149153"
+  },
+  {
+    "season": 5,
+    "episode": 56,
+    "title": "Feng Shui",
+    "topicId": "149154",
+    "file": "S05E56-feng-shui.txt",
+    "charLength": 18694,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149154"
+  },
+  {
+    "season": 5,
+    "episode": 57,
+    "title": "Alderman",
+    "topicId": "149155",
+    "file": "S05E57-alderman.txt",
+    "charLength": 20121,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149155"
+  },
+  {
+    "season": 5,
+    "episode": 58,
+    "title": "Paranoia",
+    "topicId": "149156",
+    "file": "S05E58-paranoia.txt",
+    "charLength": 19108,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149156"
+  },
+  {
+    "season": 5,
+    "episode": 59,
+    "title": "Waltz",
+    "topicId": "149157",
+    "file": "S05E59-waltz.txt",
+    "charLength": 19815,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149157"
+  },
+  {
+    "season": 5,
+    "episode": 60,
+    "title": "Anniversary",
+    "topicId": "149158",
+    "file": "S05E60-anniversary.txt",
+    "charLength": 20988,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149158"
+  },
+  {
+    "season": 5,
+    "episode": 61,
+    "title": "Community Theater",
+    "topicId": "149231",
+    "file": "S05E61-community-theater.txt",
+    "charLength": 19976,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149231"
+  },
+  {
+    "season": 5,
+    "episode": 62,
+    "title": "Ping-Pong",
+    "topicId": "149232",
+    "file": "S05E62-ping-pong.txt",
+    "charLength": 19111,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149232"
+  },
+  {
+    "season": 5,
+    "episode": 63,
+    "title": "Thanksgiving",
+    "topicId": "149233",
+    "file": "S05E63-thanksgiving.txt",
+    "charLength": 18318,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149233"
+  },
+  {
+    "season": 6,
+    "episode": 64,
+    "title": "Sissy Boy",
+    "topicId": "149234",
+    "file": "S06E64-sissy-boy.txt",
+    "charLength": 20021,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149234"
+  },
+  {
+    "season": 6,
+    "episode": 65,
+    "title": "Pullman Square",
+    "topicId": "149235",
+    "file": "S06E65-pullman-square.txt",
+    "charLength": 20822,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149235"
+  },
+  {
+    "season": 6,
+    "episode": 66,
+    "title": "Wisdom Teeth",
+    "topicId": "149236",
+    "file": "S06E66-wisdom-teeth.txt",
+    "charLength": 21508,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149236"
+  },
+  {
+    "season": 6,
+    "episode": 67,
+    "title": "Past Lives",
+    "topicId": "149237",
+    "file": "S06E67-past-lives.txt",
+    "charLength": 20087,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149237"
+  },
+  {
+    "season": 6,
+    "episode": 68,
+    "title": "Ben's Partay",
+    "topicId": "149238",
+    "file": "S06E68-bens-partay.txt",
+    "charLength": 20204,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149238"
+  },
+  {
+    "season": 6,
+    "episode": 69,
+    "title": "Walk for Hunger",
+    "topicId": "149239",
+    "file": "S06E69-walk-for-hunger.txt",
+    "charLength": 20826,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149239"
+  },
+  {
+    "season": 6,
+    "episode": 70,
+    "title": "Used Car",
+    "topicId": "149240",
+    "file": "S06E70-used-car.txt",
+    "charLength": 22500,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149240"
+  },
+  {
+    "season": 6,
+    "episode": 71,
+    "title": "Ball and Chain",
+    "topicId": "149241",
+    "file": "S06E71-ball-and-chain.txt",
+    "charLength": 21212,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149241"
+  },
+  {
+    "season": 6,
+    "episode": 72,
+    "title": "Snow Day",
+    "topicId": "149242",
+    "file": "S06E72-snow-day.txt",
+    "charLength": 23620,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149242"
+  },
+  {
+    "season": 6,
+    "episode": 73,
+    "title": "Garden",
+    "topicId": "149243",
+    "file": "S06E73-garden.txt",
+    "charLength": 20471,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149243"
+  },
+  {
+    "season": 6,
+    "episode": 74,
+    "title": "Big TV",
+    "topicId": "149244",
+    "file": "S06E74-big-tv.txt",
+    "charLength": 22703,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149244"
+  },
+  {
+    "season": 6,
+    "episode": 75,
+    "title": "Vow of Silence",
+    "topicId": "149245",
+    "file": "S06E75-vow-of-silence.txt",
+    "charLength": 20038,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149245"
+  },
+  {
+    "season": 6,
+    "episode": 76,
+    "title": "You're Belinda",
+    "topicId": "149246",
+    "file": "S06E76-youre-belinda.txt",
+    "charLength": 22251,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149246"
+  },
+  {
+    "season": 6,
+    "episode": 77,
+    "title": "Radio Katz",
+    "topicId": "149247",
+    "file": "S06E77-radio-katz.txt",
+    "charLength": 22225,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149247"
+  },
+  {
+    "season": 6,
+    "episode": 78,
+    "title": "Expert Witness",
+    "topicId": "149248",
+    "file": "S06E78-expert-witness.txt",
+    "charLength": 23184,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149248"
+  },
+  {
+    "season": 6,
+    "episode": 79,
+    "title": "Bakery Ben",
+    "topicId": "149249",
+    "file": "S06E79-bakery-ben.txt",
+    "charLength": 20793,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149249"
+  },
+  {
+    "season": 6,
+    "episode": 80,
+    "title": "Uncle Nothing",
+    "topicId": "149250",
+    "file": "S06E80-uncle-nothing.txt",
+    "charLength": 21010,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149250"
+  },
+  {
+    "season": 6,
+    "episode": 81,
+    "title": "Lerapy",
+    "topicId": "149251",
+    "file": "S06E81-lerapy.txt",
+    "charLength": 23015,
+    "sourceUrl": "https://transcripts.foreverdreaming.org/viewtopic.php?t=149251"
+  }
+]
