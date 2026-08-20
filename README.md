@@ -9,11 +9,11 @@ episode transcripts.
 - `data/episodes.json` — all 81 episodes with air dates and guest comedian(s)
 - `data/quotes.json` — collected quotes, sourced from Quote Catalog / IMDb
 - `data/transcript-sources.md` — the investigation into where real transcripts exist
-- `data/transcripts/` — 78 full episode transcripts scraped from Forever Dreaming, one `.txt` per episode plus `manifest.json`
+- `data/transcripts/` — all 81 episode transcripts (78 scraped from Forever Dreaming, 3 locally transcribed from owned video), one `.txt` per episode plus `manifest.json`
 - `src/` — the site itself (TBD)
 - `scripts/` — scrapers used to build the data set
 
 ## Status
 
-Data set is in good shape: episode/comedian metadata, quotes, and 78/81 full
-transcripts are collected. Site/UI build is next.
+Full data set collected: episode/comedian metadata, quotes, and transcripts
+for all 81 episodes. Site/UI build is next.

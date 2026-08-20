@@ -1,6 +1,36 @@
 [
   {
     "season": 1,
+    "episode": 1,
+    "title": "Pot-Bellied Pigs",
+    "topicId": null,
+    "file": "S01E01-pot-bellied-pigs.txt",
+    "charLength": 17142,
+    "sourceUrl": null,
+    "source": "local faster-whisper (base, int8) transcription of owned video file"
+  },
+  {
+    "season": 1,
+    "episode": 2,
+    "title": "Pretzelkins",
+    "topicId": null,
+    "file": "S01E02-pretzelkins.txt",
+    "charLength": 17125,
+    "sourceUrl": null,
+    "source": "local faster-whisper (base, int8) transcription of owned video file"
+  },
+  {
+    "season": 1,
+    "episode": 3,
+    "title": "Bully",
+    "topicId": null,
+    "file": "S01E03-bully.txt",
+    "charLength": 16276,
+    "sourceUrl": null,
+    "source": "local faster-whisper (base, int8) transcription of owned video file"
+  },
+  {
+    "season": 1,
     "episode": 4,
     "title": "Cholesterol",
     "topicId": "149102",
